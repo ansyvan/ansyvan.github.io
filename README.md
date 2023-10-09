@@ -1,6 +1,6 @@
 <h1>Hi, I'm Andriana! <a href="https://www.linkedin.com/in/andriana-syvanych-9744b926a/">QA Specialist</a></h1>
 
-<h2>👨‍💻 Projects I’m currently working on:</h2>
+<h2>👩🏼‍💻 Projects I’m currently working on:</h2>
 
 
 - <b>PyTest Practice</b>
